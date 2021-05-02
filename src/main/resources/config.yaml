@@ -8,3 +8,14 @@ american:
   protocol: "HTTP"
   client_id: "7913e7ad77634aa39310c213c0974d44"
   client_secret: "8c4D7977dc1846d6987F57a083F0b95E"
+  
+training:
+  host: "mu.learn.mulesoft.com"
+  port: "80"
+  basepath: "/"
+  protocol: "HTTP"
+  
+delta:
+  wsdl: "http://mu.learn.mulesoft.com/delta?wsdl"
+  service: "TicketServiceService"
+  port: "TicketServicePort"      
