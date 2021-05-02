@@ -1,0 +1,10 @@
+http:
+  port: "8081"
+  
+american:
+  host: "training4-american-api-komalmr.us-e2.cloudhub.io"
+  port: "80"
+  basepath: "/"
+  protocol: "HTTP"
+  client_id: "7913e7ad77634aa39310c213c0974d44"
+  client_secret: "8c4D7977dc1846d6987F57a083F0b95E"
